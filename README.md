@@ -1,3 +1,3 @@
 ## Hi there 👋
-- 🔭 I’m currently working on Quick Check App
-- 🌱 I’m currently learning AWS
+- 🔭 I’m currently working on Gatewayz.ai
+- 🌱 I’m currently learning blockchain
