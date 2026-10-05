@@ -1,3 +1,3 @@
 ## Hi there 👋
-- 🔭 currently working on Gatewayz.ai
-- 🌱 learning blockchain
+- 🔭 currently working on Aurascan.app
+- 🌱 Improving Gatewayz.ai
